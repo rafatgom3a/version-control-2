@@ -1,4 +1,4 @@
-Remove Local Branches: "git branch -d <name>"
+seRemove Local Branches: "git branch -d <name>"
 Remove Remote Branches: "git push origin --delete <name>"
 ----------------------------------------------------------------------------
 
@@ -23,3 +23,5 @@ To list tags in the repositor: "git tag"
 Delete tag locally: "git tag -d v1.0"
 Delete tag remotely: "git push origin --delete v1.0"
 ----------------------------------------------------------------------------
+
+![my image](hello.png)
